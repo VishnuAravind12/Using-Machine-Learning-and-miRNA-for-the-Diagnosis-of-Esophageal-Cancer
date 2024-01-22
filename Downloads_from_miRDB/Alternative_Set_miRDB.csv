@@ -1,0 +1,319 @@
+Target Score,miRNA Name,Gene Symbol,Gene Description
+100,hsa-miR-92a-3p,B3GALT2,"beta-1,3-galactosyltransferase 2"
+100,hsa-miR-92a-3p,CD69,CD69 molecule
+100,hsa-miR-92a-3p,FNIP1,folliculin interacting protein 1
+100,hsa-miR-92a-3p,G3BP2,G3BP stress granule assembly factor 2
+100,hsa-miR-92a-3p,SLC12A5,solute carrier family 12 member 5
+100,hsa-miR-92a-3p,FBXW7,F-box and WD repeat domain containing 7
+100,hsa-miR-92a-3p,MAN2A1,mannosidase alpha class 2A member 1
+99,hsa-miR-92a-3p,HIPK3,homeodomain interacting protein kinase 3
+99,hsa-miR-92a-3p,BTG2,BTG anti-proliferation factor 2
+99,hsa-miR-92a-3p,MAP2K4,mitogen-activated protein kinase kinase 4
+99,hsa-miR-92a-3p,MYO1B,myosin IB
+99,hsa-miR-92a-3p,SLC17A6,solute carrier family 17 member 6
+99,hsa-miR-92a-3p,RAB23,"RAB23, member RAS oncogene family"
+99,hsa-miR-92a-3p,C21orf91,chromosome 21 open reading frame 91
+99,hsa-miR-92a-3p,FBN1,fibrillin 1
+99,hsa-miR-92a-3p,PIKFYVE,"phosphoinositide kinase, FYVE-type zinc finger containing"
+99,hsa-miR-92a-3p,DOCK9,dedicator of cytokinesis 9
+99,hsa-miR-92a-3p,ITGAV,integrin subunit alpha V
+99,hsa-miR-92a-3p,KLF4,Kruppel like factor 4
+99,hsa-miR-92a-3p,GLRA1,glycine receptor alpha 1
+99,hsa-miR-92a-3p,EFR3A,EFR3 homolog A
+99,hsa-miR-155-3p,CREBRF,CREB3 regulatory factor
+99,hsa-miR-155-3p,ZNF629,zinc finger protein 629
+99,hsa-miR-21-3p,STK38L,serine/threonine kinase 38 like
+100,hsa-miR-543,FBXO34,F-box protein 34
+99,hsa-miR-543,TBC1D1,TBC1 domain family member 1
+99,hsa-miR-543,DMXL2,Dmx like 2
+99,hsa-miR-543,ONECUT2,one cut homeobox 2
+99,hsa-miR-543,NWD2,NACHT and WD repeat domain containing 2
+99,hsa-miR-543,MAPK1,mitogen-activated protein kinase 1
+99,hsa-miR-543,GPCPD1,glycerophosphocholine phosphodiesterase 1
+99,hsa-miR-543,LIFR,LIF receptor alpha
+99,hsa-miR-543,KLHL5,kelch like family member 5
+99,hsa-miR-543,PER3,period circadian regulator 3
+99,hsa-miR-543,ANO5,anoctamin 5
+99,hsa-miR-543,ZBTB43,zinc finger and BTB domain containing 43
+100,hsa-miR-27a-3p,AFF4,AF4/FMR2 family member 4
+100,hsa-miR-27a-3p,GXYLT1,glucoside xylosyltransferase 1
+100,hsa-miR-27a-3p,ARFGEF1,ADP ribosylation factor guanine nucleotide exchange factor 1
+100,hsa-miR-27a-3p,GCC2,GRIP and coiled-coil domain containing 2
+100,hsa-miR-27a-3p,DCUN1D4,defective in cullin neddylation 1 domain containing 4
+100,hsa-miR-27a-3p,PLK2,polo like kinase 2
+100,hsa-miR-27a-3p,TNPO1,transportin 1
+100,hsa-miR-27a-3p,TRPV3,transient receptor potential cation channel subfamily V member 3
+100,hsa-miR-27a-3p,GAB1,GRB2 associated binding protein 1
+99,hsa-miR-27a-3p,GRIA4,glutamate ionotropic receptor AMPA type subunit 4
+99,hsa-miR-27a-3p,BEX3,brain expressed X-linked 3
+99,hsa-miR-27a-3p,MBTD1,mbt domain containing 1
+99,hsa-miR-27a-3p,PDS5B,PDS5 cohesin associated factor B
+99,hsa-miR-27a-3p,AKIRIN1,akirin 1
+99,hsa-miR-27a-3p,RPS6KA5,ribosomal protein S6 kinase A5
+99,hsa-miR-27a-3p,RGPD6,RANBP2-like and GRIP domain containing 6
+99,hsa-miR-27a-3p,PHLPP2,PH domain and leucine rich repeat protein phosphatase 2
+99,hsa-miR-27a-3p,TAB3,TGF-beta activated kinase 1 (MAP3K7) binding protein 3
+99,hsa-miR-27a-3p,SOS1,SOS Ras/Rac guanine nucleotide exchange factor 1
+99,hsa-miR-27a-3p,FBXW7,F-box and WD repeat domain containing 7
+99,hsa-miR-27a-3p,CDS1,CDP-diacylglycerol synthase 1
+99,hsa-miR-27a-3p,RGPD5,RANBP2-like and GRIP domain containing 5
+99,hsa-miR-27a-3p,SEMA6A,semaphorin 6A
+99,hsa-miR-27a-3p,NRK,Nik related kinase
+100,hsa-miR-200a-3p,QSER1,glutamine and serine rich 1
+100,hsa-miR-200a-3p,TMEM170B,transmembrane protein 170B
+100,hsa-miR-200a-3p,ZBTB34,zinc finger and BTB domain containing 34
+100,hsa-miR-200a-3p,ZEB2,zinc finger E-box binding homeobox 2
+100,hsa-miR-200a-3p,ZFR,zinc finger RNA binding protein
+100,hsa-miR-200a-3p,TNRC6B,trinucleotide repeat containing 6B
+99,hsa-miR-200a-3p,MYH10,myosin heavy chain 10
+99,hsa-miR-200a-3p,EPHA7,EPH receptor A7
+99,hsa-miR-200a-3p,TCF12,transcription factor 12
+99,hsa-miR-200a-3p,ATXN1,ataxin 1
+99,hsa-miR-200a-3p,PRKACB,protein kinase cAMP-activated catalytic subunit beta
+99,hsa-miR-200a-3p,MBNL3,muscleblind like splicing regulator 3
+99,hsa-miR-200a-3p,PPM1E,"protein phosphatase, Mg2+/Mn2+ dependent 1E"
+99,hsa-miR-200a-3p,LHFPL6,LHFPL tetraspan subfamily member 6
+99,hsa-miR-200a-3p,DUSP3,dual specificity phosphatase 3
+99,hsa-miR-200a-3p,ASTN1,astrotactin 1
+99,hsa-miR-200a-3p,WDFY3,WD repeat and FYVE domain containing 3
+99,hsa-miR-200a-3p,KLF12,Kruppel like factor 12
+99,hsa-miR-200a-3p,RANBP6,RAN binding protein 6
+100,hsa-miR-20b-5p,ENPP5,ectonucleotide pyrophosphatase/phosphodiesterase 5 (putative)
+100,hsa-miR-20b-5p,FYCO1,FYVE and coiled-coil domain containing 1
+100,hsa-miR-20b-5p,DYNC1LI2,dynein cytoplasmic 1 light intermediate chain 2
+100,hsa-miR-20b-5p,ZNFX1,zinc finger NFX1-type containing 1
+99,hsa-miR-20b-5p,NPAT,"nuclear protein, coactivator of histone transcription"
+99,hsa-miR-20b-5p,MED12L,mediator complex subunit 12 like
+99,hsa-miR-20b-5p,TBC1D20,TBC1 domain family member 20
+99,hsa-miR-20b-5p,ZNF800,zinc finger protein 800
+99,hsa-miR-20b-5p,NPAS2,neuronal PAS domain protein 2
+99,hsa-miR-20b-5p,SAR1B,secretion associated Ras related GTPase 1B
+99,hsa-miR-20b-5p,BRMS1L,BRMS1 like transcriptional repressor
+99,hsa-miR-20b-5p,ITGB8,integrin subunit beta 8
+99,hsa-miR-20b-5p,ANKRD52,ankyrin repeat domain 52
+99,hsa-miR-20b-5p,VLDLR,very low density lipoprotein receptor
+99,hsa-miR-20b-5p,TXNIP,thioredoxin interacting protein
+99,hsa-miR-20b-5p,KCNB1,potassium voltage-gated channel subfamily B member 1
+99,hsa-miR-20b-5p,CLOCK,clock circadian regulator
+99,hsa-miR-20b-5p,RUFY2,RUN and FYVE domain containing 2
+99,hsa-miR-20b-5p,ARHGAP12,Rho GTPase activating protein 12
+99,hsa-miR-20b-5p,KCNK10,potassium two pore domain channel subfamily K member 10
+99,hsa-miR-20b-5p,STK17B,serine/threonine kinase 17b
+99,hsa-miR-20b-5p,PDCD1LG2,programmed cell death 1 ligand 2
+99,hsa-miR-20b-5p,ZFYVE26,zinc finger FYVE-type containing 26
+99,hsa-miR-20b-5p,RAB22A,"RAB22A, member RAS oncogene family"
+99,hsa-miR-20b-5p,SLC40A1,solute carrier family 40 member 1
+99,hsa-miR-20b-5p,GPR137C,G protein-coupled receptor 137C
+99,hsa-miR-20b-5p,REEP3,receptor accessory protein 3
+99,hsa-miR-20b-5p,RRAGD,Ras related GTP binding D
+99,hsa-miR-20b-5p,TBC1D9,TBC1 domain family member 9
+99,hsa-miR-20b-5p,PTPN4,"protein tyrosine phosphatase, non-receptor type 4"
+99,hsa-miR-20b-5p,SACS,sacsin molecular chaperone
+99,hsa-miR-20b-5p,PKD2,"polycystin 2, transient receptor potential cation channel"
+99,hsa-miR-20b-5p,ZNF827,zinc finger protein 827
+99,hsa-miR-20b-5p,MAP3K2,mitogen-activated protein kinase kinase kinase 2
+99,hsa-miR-20b-5p,NAPEPLD,N-acyl phosphatidylethanolamine phospholipase D
+100,hsa-miR-9-5p,ONECUT2,one cut homeobox 2
+100,hsa-miR-9-5p,SOCS5,suppressor of cytokine signaling 5
+100,hsa-miR-9-5p,POU2F1,POU class 2 homeobox 1
+100,hsa-miR-9-5p,ARFGEF2,ADP ribosylation factor guanine nucleotide exchange factor 2
+100,hsa-miR-9-5p,PRTG,protogenin
+100,hsa-miR-9-5p,PRDM6,PR/SET domain 6
+99,hsa-miR-9-5p,KCNJ2,potassium voltage-gated channel subfamily J member 2
+99,hsa-miR-9-5p,SDC2,syndecan 2
+99,hsa-miR-9-5p,MDGA2,MAM domain containing glycosylphosphatidylinositol anchor 2
+99,hsa-miR-9-5p,SLC50A1,solute carrier family 50 member 1
+99,hsa-miR-9-5p,DOK6,docking protein 6
+99,hsa-miR-9-5p,SHROOM4,shroom family member 4
+99,hsa-miR-9-5p,LIN28B,lin-28 homolog B
+99,hsa-miR-9-5p,YBX3,Y-box binding protein 3
+99,hsa-miR-9-5p,CPEB2,cytoplasmic polyadenylation element binding protein 2
+99,hsa-miR-9-5p,MTHFD2,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase"
+99,hsa-miR-9-5p,CTNNA1,catenin alpha 1
+99,hsa-miR-9-5p,MYOCD,myocardin
+99,hsa-miR-183-5p,PFN2,profilin 2
+99,hsa-miR-183-5p,MEF2C,myocyte enhancer factor 2C
+99,hsa-miR-183-5p,KCNK10,potassium two pore domain channel subfamily K member 10
+100,hsa-miR-223-3p,FBXW7,F-box and WD repeat domain containing 7
+99,hsa-miR-223-3p,SP3,Sp3 transcription factor
+100,hsa-miR-200b-3p,VASH2,vasohibin 2
+100,hsa-miR-200b-3p,HIPK3,homeodomain interacting protein kinase 3
+100,hsa-miR-200b-3p,MAP2,microtubule associated protein 2
+100,hsa-miR-200b-3p,ERRFI1,ERBB receptor feedback inhibitor 1
+100,hsa-miR-200b-3p,ZEB1,zinc finger E-box binding homeobox 1
+100,hsa-miR-200b-3p,NR5A2,nuclear receptor subfamily 5 group A member 2
+100,hsa-miR-200b-3p,ZEB2,zinc finger E-box binding homeobox 2
+99,hsa-miR-200b-3p,RECK,reversion inducing cysteine rich protein with kazal motifs
+99,hsa-miR-200b-3p,SLIT2,slit guidance ligand 2
+99,hsa-miR-200b-3p,WIPF1,WAS/WASL interacting protein family member 1
+99,hsa-miR-200b-3p,C11orf95,chromosome 11 open reading frame 95
+99,hsa-miR-200b-3p,FAM8A1,family with sequence similarity 8 member A1
+99,hsa-miR-200b-3p,LHFPL6,LHFPL tetraspan subfamily member 6
+99,hsa-miR-200b-3p,AP1S2,adaptor related protein complex 1 subunit sigma 2
+99,hsa-miR-200b-3p,SEC23A,"Sec23 homolog A, coat complex II component"
+99,hsa-miR-200b-3p,TBX18,T-box 18
+99,hsa-miR-200b-3p,PTPN21,"protein tyrosine phosphatase, non-receptor type 21"
+99,hsa-miR-200b-3p,DNAJC3,DnaJ heat shock protein family (Hsp40) member C3
+99,hsa-miR-200b-3p,QKI,"QKI, KH domain containing RNA binding"
+99,hsa-miR-200b-3p,RIC1,"RIC1 homolog, RAB6A GEF complex partner 1"
+99,hsa-miR-200b-3p,CCNJ,cyclin J
+99,hsa-miR-200b-3p,PCMTD1,protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1
+99,hsa-miR-200b-3p,CFL2,cofilin 2
+99,hsa-miR-200b-3p,GPM6A,glycoprotein M6A
+100,hsa-miR-124-3p,OSBPL3,oxysterol binding protein like 3
+100,hsa-miR-124-3p,SLC50A1,solute carrier family 50 member 1
+100,hsa-miR-124-3p,ITGB1,integrin subunit beta 1
+100,hsa-miR-124-3p,SIX4,SIX homeobox 4
+100,hsa-miR-124-3p,NFATC1,nuclear factor of activated T cells 1
+100,hsa-miR-124-3p,SNAI2,snail family transcriptional repressor 2
+100,hsa-miR-124-3p,B4GALT1,"beta-1,4-galactosyltransferase 1"
+100,hsa-miR-124-3p,MAGT1,magnesium transporter 1
+100,hsa-miR-124-3p,LAMC1,laminin subunit gamma 1
+99,hsa-miR-124-3p,PALLD,"palladin, cytoskeletal associated protein"
+99,hsa-miR-124-3p,LRRC58,leucine rich repeat containing 58
+99,hsa-miR-124-3p,QSER1,glutamine and serine rich 1
+99,hsa-miR-124-3p,CREBRF,CREB3 regulatory factor
+99,hsa-miR-124-3p,SP1,Sp1 transcription factor
+99,hsa-miR-124-3p,PLEKHM3,pleckstrin homology domain containing M3
+99,hsa-miR-124-3p,VAMP3,vesicle associated membrane protein 3
+99,hsa-miR-124-3p,LRRC1,leucine rich repeat containing 1
+99,hsa-miR-124-3p,PIK3C2A,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
+99,hsa-miR-124-3p,CRTC3,CREB regulated transcription coactivator 3
+99,hsa-miR-124-3p,ATL3,atlastin GTPase 3
+99,hsa-miR-124-3p,SPOPL,speckle type BTB/POZ protein like
+99,hsa-miR-124-3p,PTBP3,polypyrimidine tract binding protein 3
+99,hsa-miR-124-3p,RHOG,ras homolog family member G
+99,hsa-miR-124-3p,SERINC2,serine incorporator 2
+99,hsa-miR-124-3p,TMC7,transmembrane channel like 7
+99,hsa-miR-124-3p,PRTG,protogenin
+99,hsa-miR-124-3p,SNX18,sorting nexin 18
+99,hsa-miR-124-3p,CD164,CD164 molecule
+99,hsa-miR-124-3p,SEMA6A,semaphorin 6A
+99,hsa-miR-124-3p,CTDSP1,CTD small phosphatase 1
+99,hsa-miR-124-3p,FLOT2,flotillin 2
+99,hsa-miR-124-3p,EYA4,EYA transcriptional coactivator and phosphatase 4
+99,hsa-miR-124-3p,PTPN12,"protein tyrosine phosphatase, non-receptor type 12"
+99,hsa-miR-124-3p,PRRX1,paired related homeobox 1
+99,hsa-miR-124-3p,CREB3L2,cAMP responsive element binding protein 3 like 2
+100,hsa-miR-126-5p,HSPB8,heat shock protein family B (small) member 8
+100,hsa-miR-126-5p,PDE7B,phosphodiesterase 7B
+100,hsa-miR-126-5p,FBXO6,F-box protein 6
+100,hsa-miR-126-5p,TRMT9B,tRNA methyltransferase 9B (putative)
+100,hsa-miR-126-5p,TNFAIP8L3,TNF alpha induced protein 8 like 3
+100,hsa-miR-126-5p,HOXB6,homeobox B6
+100,hsa-miR-126-5p,GNE,glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase
+100,hsa-miR-126-5p,NAT1,N-acetyltransferase 1
+100,hsa-miR-126-5p,CASP9,caspase 9
+100,hsa-miR-126-5p,TRIM8,tripartite motif containing 8
+100,hsa-miR-126-5p,TMEM182,transmembrane protein 182
+100,hsa-miR-126-5p,MR1,"major histocompatibility complex, class I-related"
+100,hsa-miR-126-5p,ESRRG,estrogen related receptor gamma
+100,hsa-miR-126-5p,S1PR3,sphingosine-1-phosphate receptor 3
+100,hsa-miR-126-5p,A2ML1,alpha-2-macroglobulin like 1
+100,hsa-miR-126-5p,MDM4,"MDM4, p53 regulator"
+100,hsa-miR-126-5p,BRWD3,bromodomain and WD repeat domain containing 3
+100,hsa-miR-126-5p,RFX4,regulatory factor X4
+100,hsa-miR-126-5p,TRPS1,transcriptional repressor GATA binding 1
+100,hsa-miR-126-5p,ARL11,ADP ribosylation factor like GTPase 11
+100,hsa-miR-126-5p,FAM168A,family with sequence similarity 168 member A
+100,hsa-miR-126-5p,CASK,calcium/calmodulin dependent serine protein kinase
+100,hsa-miR-126-5p,DENND1B,DENN domain containing 1B
+100,hsa-miR-126-5p,GRIK2,glutamate ionotropic receptor kainate type subunit 2
+100,hsa-miR-126-5p,TBCA,tubulin folding cofactor A
+100,hsa-miR-126-5p,HOXC8,homeobox C8
+100,hsa-miR-126-5p,INPP5D,inositol polyphosphate-5-phosphatase D
+100,hsa-miR-126-5p,CAMK2A,calcium/calmodulin dependent protein kinase II alpha
+100,hsa-miR-126-5p,GABRA4,gamma-aminobutyric acid type A receptor alpha4 subunit
+100,hsa-miR-126-5p,CD84,CD84 molecule
+100,hsa-miR-126-5p,GGT6,gamma-glutamyltransferase 6
+100,hsa-miR-126-5p,TSC22D4,TSC22 domain family member 4
+100,hsa-miR-126-5p,MACC1,MET transcriptional regulator MACC1
+100,hsa-miR-126-5p,GABRB2,gamma-aminobutyric acid type A receptor beta2 subunit
+100,hsa-miR-126-5p,RORA,RAR related orphan receptor A
+100,hsa-miR-126-5p,MAP3K2,mitogen-activated protein kinase kinase kinase 2
+100,hsa-miR-126-5p,FGF7,fibroblast growth factor 7
+99,hsa-miR-126-5p,CNTN1,contactin 1
+99,hsa-miR-126-5p,SETD9,SET domain containing 9
+99,hsa-miR-126-5p,CHST11,carbohydrate sulfotransferase 11
+99,hsa-miR-126-5p,PI15,peptidase inhibitor 15
+99,hsa-miR-126-5p,VPS13A,vacuolar protein sorting 13 homolog A
+99,hsa-miR-126-5p,YIPF6,Yip1 domain family member 6
+99,hsa-miR-126-5p,PNRC1,proline rich nuclear receptor coactivator 1
+99,hsa-miR-126-5p,MYEF2,myelin expression factor 2
+99,hsa-miR-126-5p,KCNB1,potassium voltage-gated channel subfamily B member 1
+99,hsa-miR-126-5p,COMMD2,COMM domain containing 2
+99,hsa-miR-126-5p,SHISAL1,shisa like 1
+99,hsa-miR-126-5p,FXN,frataxin
+99,hsa-miR-126-5p,TUBGCP4,tubulin gamma complex associated protein 4
+99,hsa-miR-126-5p,MMRN1,multimerin 1
+99,hsa-miR-126-5p,ZDHHC15,zinc finger DHHC-type containing 15
+99,hsa-miR-126-5p,PKHD1,"PKHD1, fibrocystin/polyductin"
+99,hsa-miR-126-5p,KIRREL1,kirre like nephrin family adhesion molecule 1
+99,hsa-miR-126-5p,STEAP2,STEAP2 metalloreductase
+99,hsa-miR-126-5p,RABL3,"RAB, member of RAS oncogene family like 3"
+99,hsa-miR-126-5p,EBF1,EBF transcription factor 1
+99,hsa-miR-126-5p,ZIC5,Zic family member 5
+99,hsa-miR-126-5p,DBNDD2,dysbindin domain containing 2
+99,hsa-miR-126-5p,C5orf47,chromosome 5 open reading frame 47
+100,hsa-miR-148a-3p,CDK19,cyclin dependent kinase 19
+100,hsa-miR-148a-3p,SOS2,SOS Ras/Rho guanine nucleotide exchange factor 2
+99,hsa-miR-148a-3p,RPS6KA5,ribosomal protein S6 kinase A5
+99,hsa-miR-148a-3p,HOMER1,homer scaffold protein 1
+99,hsa-miR-148a-3p,WDR47,WD repeat domain 47
+99,hsa-miR-148a-3p,LDLR,low density lipoprotein receptor
+99,hsa-miR-148a-3p,BCL2L11,BCL2 like 11
+99,hsa-miR-148a-3p,UBE2D3,ubiquitin conjugating enzyme E2 D3
+99,hsa-miR-148a-3p,NPTN,neuroplastin
+99,hsa-miR-148a-3p,MEOX2,mesenchyme homeobox 2
+99,hsa-miR-148a-3p,CBLB,Cbl proto-oncogene B
+99,hsa-miR-148a-3p,KMT2A,lysine methyltransferase 2A
+100,hsa-miR-26a-5p,STRADB,STE20 related adaptor beta
+100,hsa-miR-26a-5p,TET2,tet methylcytosine dioxygenase 2
+100,hsa-miR-26a-5p,CASZ1,castor zinc finger 1
+100,hsa-miR-26a-5p,FAM98A,family with sequence similarity 98 member A
+100,hsa-miR-26a-5p,CDK8,cyclin dependent kinase 8
+100,hsa-miR-26a-5p,SLC7A11,solute carrier family 7 member 11
+100,hsa-miR-26a-5p,OTUD4,OTU deubiquitinase 4
+99,hsa-miR-26a-5p,NAB1,NGFI-A binding protein 1
+99,hsa-miR-26a-5p,CHORDC1,cysteine and histidine rich domain containing 1
+99,hsa-miR-26a-5p,SLC2A13,solute carrier family 2 member 13
+99,hsa-miR-26a-5p,CREBRF,CREB3 regulatory factor
+99,hsa-miR-26a-5p,CIPC,CLOCK interacting pacemaker
+99,hsa-miR-26a-5p,TET1,tet methylcytosine dioxygenase 1
+99,hsa-miR-26a-5p,B3GNT5,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5"
+99,hsa-miR-26a-5p,STK39,serine/threonine kinase 39
+99,hsa-miR-26a-5p,LEF1,lymphoid enhancer binding factor 1
+99,hsa-miR-26a-5p,USP9X,ubiquitin specific peptidase 9 X-linked
+99,hsa-miR-26a-5p,TP53INP1,tumor protein p53 inducible nuclear protein 1
+99,hsa-miR-26a-5p,PTEN,phosphatase and tensin homolog
+99,hsa-miR-26a-5p,KLHL42,kelch like family member 42
+99,hsa-miR-26a-5p,E2F7,E2F transcription factor 7
+99,hsa-miR-26a-5p,RPS6KA6,ribosomal protein S6 kinase A6
+99,hsa-miR-26a-5p,ETNK1,ethanolamine kinase 1
+99,hsa-miR-26a-5p,POLR3G,RNA polymerase III subunit G
+99,hsa-miR-26a-5p,PITPNC1,phosphatidylinositol transfer protein cytoplasmic 1
+99,hsa-miR-26a-5p,RHOQ,ras homolog family member Q
+99,hsa-miR-26a-5p,OSBPL11,oxysterol binding protein like 11
+99,hsa-miR-26a-5p,TNRC6B,trinucleotide repeat containing 6B
+99,hsa-miR-26a-5p,NAP1L5,nucleosome assembly protein 1 like 5
+99,hsa-miR-26a-5p,ULK2,unc-51 like autophagy activating kinase 2
+99,hsa-miR-195-3p,PRKG1,protein kinase cGMP-dependent 1
+99,hsa-miR-195-3p,CADM2,cell adhesion molecule 2
+99,hsa-miR-195-3p,PLCXD3,phosphatidylinositol specific phospholipase C X domain containing 3
+99,hsa-miR-195-3p,INTU,inturned planar cell polarity protein
+99,hsa-miR-195-3p,PURA,purine rich element binding protein A
+99,hsa-miR-195-3p,CUL2,cullin 2
+99,hsa-miR-195-3p,KDM7A,lysine demethylase 7A
+99,hsa-miR-133b,BICC1,BicC family RNA binding protein 1
+99,hsa-miR-133b,LHFPL6,LHFPL tetraspan subfamily member 6
+99,hsa-miR-133b,PTBP1,polypyrimidine tract binding protein 1
+99,hsa-miR-133b,MAML1,mastermind like transcriptional coactivator 1
+99,hsa-miR-143-5p,GLCE,glucuronic acid epimerase
+99,hsa-miR-125b-5p,STARD13,StAR related lipid transfer domain containing 13
+99,hsa-miR-125b-5p,FREM1,FRAS1 related extracellular matrix 1
+99,hsa-miR-125b-5p,PPP4R3A,protein phosphatase 4 regulatory subunit 3A
+99,hsa-miR-125b-5p,BMF,Bcl2 modifying factor
+99,hsa-miR-125b-5p,GCNT1,glucosaminyl (N-acetyl) transferase 1
+99,hsa-miR-125b-5p,SH3TC2,SH3 domain and tetratricopeptide repeats 2
+99,hsa-miR-125b-5p,ZNF704,zinc finger protein 704
+99,hsa-miR-125b-5p,ARID3B,AT-rich interaction domain 3B
